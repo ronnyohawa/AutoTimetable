@@ -1,0 +1,16 @@
+C:\TimeTable project\Application\AfricanaAutoTimeTableGenerator\Africana TimeTable Generator\bin\Debug\Africana TimeTable Generator.exe.config
+C:\TimeTable project\Application\AfricanaAutoTimeTableGenerator\Africana TimeTable Generator\bin\Debug\Africana TimeTable Generator.exe
+C:\TimeTable project\Application\AfricanaAutoTimeTableGenerator\Africana TimeTable Generator\bin\Debug\Africana TimeTable Generator.pdb
+C:\TimeTable project\Application\AfricanaAutoTimeTableGenerator\Africana TimeTable Generator\obj\Debug\Africana TimeTable Generator.csproj.AssemblyReference.cache
+C:\TimeTable project\Application\AfricanaAutoTimeTableGenerator\Africana TimeTable Generator\obj\Debug\Africana TimeTable Generator.csproj.SuggestedBindingRedirects.cache
+C:\TimeTable project\Application\AfricanaAutoTimeTableGenerator\Africana TimeTable Generator\obj\Debug\Africana_TimeTable_Generator.Properties.Resources.resources
+C:\TimeTable project\Application\AfricanaAutoTimeTableGenerator\Africana TimeTable Generator\obj\Debug\Africana TimeTable Generator.csproj.GenerateResource.cache
+C:\TimeTable project\Application\AfricanaAutoTimeTableGenerator\Africana TimeTable Generator\obj\Debug\Africana TimeTable Generator.csproj.CoreCompileInputs.cache
+C:\TimeTable project\Application\AfricanaAutoTimeTableGenerator\Africana TimeTable Generator\obj\Debug\Africana TimeTable Generator.exe
+C:\TimeTable project\Application\AfricanaAutoTimeTableGenerator\Africana TimeTable Generator\obj\Debug\Africana TimeTable Generator.pdb
+C:\TimeTable project\Application\AfricanaAutoTimeTableGenerator\Africana TimeTable Generator\obj\Debug\Africana_TimeTable_Generator.Forms.Configuaration.Sessions.resources
+C:\TimeTable project\Application\AfricanaAutoTimeTableGenerator\Africana TimeTable Generator\obj\Debug\Africana_TimeTable_Generator.Forms.Home.resources
+C:\TimeTable project\Application\AfricanaAutoTimeTableGenerator\Africana TimeTable Generator\obj\Debug\Africana_TimeTable_Generator.Forms.Configuaration.Semmester.resources
+C:\TimeTable project\Application\AfricanaAutoTimeTableGenerator\Africana TimeTable Generator\obj\Debug\Africana_TimeTable_Generator.Forms.Configuaration.Programme.resources
+C:\TimeTable project\Application\AfricanaAutoTimeTableGenerator\Africana TimeTable Generator\obj\Debug\Africana_TimeTable_Generator.Forms.Configuaration.Days.resources
+C:\TimeTable project\Application\AfricanaAutoTimeTableGenerator\Africana TimeTable Generator\obj\Debug\Africana_TimeTable_Generator.Forms.Configuaration.Rooms.resources
